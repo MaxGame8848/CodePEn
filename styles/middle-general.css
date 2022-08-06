@@ -1,0 +1,7 @@
+.middle-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(49,52,60);
+    background: linear-gradient(90deg, rgba(49,52,60,1) 0%, rgba(9,10,12,1) 100%);
+}

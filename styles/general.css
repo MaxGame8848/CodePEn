@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+}
+.top-part > .top-content {
+    height: 5em;
+    background-color: #000;
+    padding: 1.3em 1em;
+    display: grid;
+    grid-template-columns: 1fr 2.1fr 1fr;
+}
+/* Logo */
+.top-content > .codepen-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5em;
+}
+.top-content > .codepen-logo > .logo img {
+    width: 17em;    
+}

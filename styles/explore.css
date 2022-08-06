@@ -1,0 +1,29 @@
+.nav-links {
+    width: 29rem;
+    padding-left: 1.3em;
+}
+.top-content > .nav-links > .explore-txt p {
+    color: #f4e187;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.top-content > .nav-links > .links {
+    display: flex;
+    justify-content: space-between;
+}
+.top-content > .nav-links > .links > .nav-link a {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none; 
+    color: #fff;
+    font-size: large;
+    font-weight: 900;
+    
+}
+.top-content > .nav-links > .links > .spark-txt a,i {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #acacac;
+    font-size: small;
+    font-weight: lighter;
+}

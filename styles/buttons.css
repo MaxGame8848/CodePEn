@@ -1,0 +1,55 @@
+.top-content > .gray-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: right;
+}
+.top-content > .gray-buttons > .btn > #create {
+    background-color: #36383f;
+    border-radius: 4px;
+    font-weight: 300;
+    padding: 1em 1.5rem;
+}
+.top-content > .gray-buttons > .btn {
+    background-color: #36383f;
+    border-radius: 4px;
+    font-weight: 300;
+    padding: 1em 1rem;
+}
+.top-content > .gray-buttons > .btn a {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+.top-content > .gray-buttons > .btn > #create i {
+    color: #4bce79;
+    font-size: 1.2rem;
+}
+.top-content > .gray-buttons > .search-ico i {
+    color: #36383f;
+    font-size: 2rem;
+}
+/* LEft Buttons */
+.middle-content > .left > .buttons > .sign{
+    background-color: #4bce79;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 3px;
+    padding: 0.5em 1.1em;
+    font-size: 1.5em;
+    font-weight: 800;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #4bce79;
+}
+.middle-content > .left > .buttons > .more {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 3px;
+    padding: 0.5em 1.1em;
+    font-size: 1.5em;
+    font-weight: 600;
+    border: 1px solid #000;
+}
+
